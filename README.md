@@ -1,4 +1,4 @@
-# Exerc-cio-sobre-Set
+# Exercício-sobre-Set
 Um site de internet registra um log de acessos dos usuários. Um
 registro de log consiste no nome de usuário (apenas uma palavra) e o
 instante em que o usuário acessou o site no padrão ISO 8601,
